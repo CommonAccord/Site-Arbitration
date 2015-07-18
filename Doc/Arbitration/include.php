@@ -1,0 +1,1 @@
+This is the special folder for the arbitration community to publish its best practices for inclusion in the overall CommonAccord project. So far, there is nothing here, because so far <b>you</b> are the first member of the community. 
